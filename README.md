@@ -1,1 +1,5 @@
-# software-engineering-protect-the-precious-
+# software-engineering-protect-the-precious
+This project, Protect The Precious, applies the complete Software Development Life Cycle (SDLC) to plan and design a reliable software system. The work includes mechanisms such as requirements analysis, functional specification, UML modeling, UI prototyping, effort estimation, scheduling, software testing, and risk management. Within the project, the team prepared a detailed proposal, identified functional and non-functional requirements, designed system architecture with UML diagrams, created user interface mockups, developed a work breakdown structure (WBS), and outlined testing strategies to ensure quality.
+
+The final features of the project deliverables include a clear project roadmap, structured documentation, visual system design, planned testing approach, and risk mitigation strategies, all of which help stakeholders gain transparency, reduce development risks, improve efficiency, and ensure the delivery of a user-focused, cost-effective software solution.
+* Technology Used: Ms World, Software Engineering methodologies (SDLC, WBS, Risk Management, Testing), Modeling tools/notations: UML (Use Case, Sequence, Class diagrams), UML tools, Figma, Excel, or Gantt charts.
